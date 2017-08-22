@@ -8,9 +8,9 @@ N26 Statistics
  Every Time a new transaction happened, this endpoint will be called. 
  
  Where: 
- amount:  transaction amount 
+ ● amount:  transaction amount 
 
- timestamp:transaction time in epoch in millis in UTC time zone (this is not current timestamp) 
+ ● timestamp:transaction time in epoch in millis in UTC time zone (this is not current timestamp) 
  
  Returns: Empty body with either 201 or 204. 
  
