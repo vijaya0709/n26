@@ -9,6 +9,7 @@ N26 Statistics
  
  Where: 
  amount:  transaction amount 
+
  timestamp:transaction time in epoch in millis in UTC time zone (this is not current timestamp) 
  
  Returns: Empty body with either 201 or 204. 
